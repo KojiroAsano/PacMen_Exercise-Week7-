@@ -1,5 +1,12 @@
 # PacMen_Exercise-Week7-
 
+<img src = "PacmanExercise_1.png"/ width = '300'>
+
+<img src = "PacmanExercise_2.png"/ width = '300'>
+
+<img src = "PacmanExercise_3.png"/ width = '300'>
+
+
 ## Description:
   This is assignment from ***Professional Certificate in Coding: Full Stack Development with MERN*** Week7.
   This program consist of javascript, html, and img files.
