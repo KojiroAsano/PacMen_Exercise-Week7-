@@ -8,7 +8,6 @@
 
 
 ## Description:
-  This is assignment from ***Professional Certificate in Coding: Full Stack Development with MERN*** Week7.
   This program consist of javascript, html, and img files.
   When you click the "Add pacman" then the pacman is created. When you click the "Start game" the pacmen stat to move.
   When the pacmen reach the edge of the screen, the pacmen change the direction of movement.
@@ -32,4 +31,4 @@
   The update is not expected.
   
 ## License information: 
-  <p>The most of the program is coded and contrubuted by MIT. If you use the part of this code in your program and show it to public, please include the name of ***MIT***.</p>
+  <p>If you use the part of this code in your program and show it to public, please include the name of ***MIT***.</p>
