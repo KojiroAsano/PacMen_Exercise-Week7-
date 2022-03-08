@@ -1,4 +1,4 @@
-# PacMen_Exercise-Week7-
+# PacMen
 
 <img src = "PacmanExercise_1.png" width = '300'/>
 
